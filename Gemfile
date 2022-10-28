@@ -2,8 +2,6 @@ source "https://rubygems.org"
 
 gem "lita"
 
-gem "lita-stack"
-
 gemspec
 
 # Uncomment to use the HipChat adapter
